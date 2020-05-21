@@ -1,7 +1,7 @@
 import { A10 } from "../a10.ts";
 
 export const lucifer: A10 = {
-  name: "stephan",
+  name: "stephen",
   body: [
     "@@@@@@@@@@@@@GGGGGGG@GGGGGG@OO@@GccCOG@@@MM@@@@@@@@@@@@@@@@@@@@@@@@@@@C@@@@@@@@@@@@@@@@@@@@@@@@@@@\n" +
     "@@@@@@@@@@@@GGGGGGGG@@GGGGGGOc@@CcccccCOG@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n" +
