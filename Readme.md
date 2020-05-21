@@ -2,12 +2,12 @@
 Every Framework Needs a A10 API
 
 ## Usage
-Quite similarily to the [npm package](https://www.npmjs.com/package/cat-me) [It basically a kang of [CatYou](https://deno.land/x/cat_you)], A10 API generates A10 images either by random, or by passing in a particular name as a parameter.
+Quite similarily to the [npm package](https://www.npmjs.com/package/cat-me) [It's basically a kang of [CatYou](https://deno.land/x/cat_you)], A10 API generates A10 images either by random, or by passing in a particular name as a parameter.
 
 ```javascript
 import { getA10 } from "./getA10.ts";
 
-console.log(getA10("chullan"))
+console.log(getA10())
 /*
 @@@@@@@@@@@@@GGGGGGG@GGGGGG@OO@@GccCOG@@@MM@@@@@@@@@@@@@@@@@@@@@@@@@@@C@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@GGGGGGGG@@GGGGGGOc@@CcccccCOG@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
